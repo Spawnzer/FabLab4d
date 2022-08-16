@@ -1,7 +1,7 @@
 /*
  * Project Display
  * Description: display a counter on a 4digits 7segment display 
- * Author: Philippe Libioulle
+ * Author: Alexandre Dubeau
  * Date:
  */
 
